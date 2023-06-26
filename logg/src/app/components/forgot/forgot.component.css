@@ -1,0 +1,101 @@
+.content-body{
+    min-height: 100%;
+    padding: 60px 1rem;
+    background:  linear-gradient(to top, #c9deff 0%, #c9deff 50%, #6d42ba 50%, #6d42ba 100%) no-repeat;
+    display: block;
+/* color opcional 5d00fd */
+
+}
+mat-card{
+    max-width: 800px;
+    margin: 10em auto;
+    text-align: center;
+    max-height: 800px;
+    display: flex;
+    border: 55px !important;
+    border-radius: 30px !important;
+    border: #000 !important;
+
+}
+
+.header{
+    text-align: center;
+    margin-right: 10px;
+    overflow-y: auto;
+    height: auto;
+    max-height: 200px;
+    font-size: 30px;
+}
+
+.full-width{
+    width: 80%;
+   
+}
+
+.forgot-password{
+    padding-left: 0px;
+    
+}
+
+.email-input{
+    padding-top: 10xp;
+    
+}
+
+.aLink{
+    float: right;
+    padding-right: 80px;
+    text-decoration: none;
+    color:#7c55c1;
+}
+
+.bLink{
+    float: center;
+    padding-right: 1px;
+    text-decoration: none;
+    color:#7c55c1;
+}
+
+
+.body {
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    align-items: center;
+    background-color: #f5f5f5;
+}
+.login{
+    width: 100%;
+    max-width: 330px;
+    text-align: center;
+}
+.ancho{
+    width: 80%;
+}
+.b{
+    height: 60px;
+    border: 25px !important;
+    border-radius: 15px !important;
+   
+
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+}
+
+.margin-top{
+    margin-top: 16px;
+}
+
+.sign-up-link{
+
+    font-size: 1.2rem;
+    margin-left: 8px;
+}
+
+.m{
+    text-align: center;
+    font-size: 18px;
+}
